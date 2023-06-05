@@ -38,8 +38,8 @@ Stop
 
 ## Program:
 ```
-Developed By: Silambarasan K
-Reg No:212221230101
+Developed By: Mohan Raj
+Reg No:212221230065
 ```
 
 ```c#
@@ -64,6 +64,6 @@ public class Cube : MonoBehaviour
 
 ```
 ## Output:
-![img](Ex1.png)
+![img](https://github.com/simbu07/Rotating-the-Gaming-Object/raw/main/Ex1.png)
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity was developed.
